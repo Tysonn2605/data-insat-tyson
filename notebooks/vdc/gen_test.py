@@ -1,5 +1,5 @@
 import random as rd
-rd.seed(5)
+rd.seed(70)
 
 n = 20
 limX = (0, 100)
